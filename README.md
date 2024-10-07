@@ -1,2 +1,3 @@
 # portfolio
-my first resporitory with git hub 
+my first resporitory with github
+author: siam
